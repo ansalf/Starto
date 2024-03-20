@@ -1,0 +1,62 @@
+.table-row-odd {
+    background-color: #FEF7F7;
+}
+
+table {
+    font-size: 16px;
+    border-spacing: 10px;
+    border-collapse: collapse;
+}
+
+td, th {
+    border-bottom: 1px solid #D9D9D9;
+    padding: 18px 90px 18px 8px;
+    text-align: left;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.class-container{
+    display:flex;
+    align-items: center;
+    margin: 10px 0px 32px 0px;
+    width: 280px;;
+}
+
+.titleColumn{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-filter {
+    background-color: #C93B25;
+    color:#f9f9f9;
+    border-radius: 5px;
+    border-width: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+    width: 100%;
+}
+
+.lblClass{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-right: 12px;
+}
+
+.ddButton{
+    padding-right: 8px;
+}
+
+.ddClass{
+    width: 190px;
+    height: 34px;
+    padding-left: 5px;
+    border-radius: 10px;
+    border: 1px solid #857979;
+    cursor: pointer;
+}
+
